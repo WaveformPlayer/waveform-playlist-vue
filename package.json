@@ -41,10 +41,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arraypress/waveform-playlist-vue.git"
+    "url": "git+https://github.com/WaveformPlayer/waveform-playlist-vue.git"
   },
   "bugs": {
-    "url": "https://github.com/arraypress/waveform-playlist-vue/issues"
+    "url": "https://github.com/WaveformPlayer/waveform-playlist-vue/issues"
   },
   "homepage": "https://waveformplayer.com",
   "funding": {

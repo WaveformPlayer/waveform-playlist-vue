@@ -31,7 +31,7 @@
  * `class`, `style`, and `id` are intentionally NOT props: Vue's
  * attribute fall-through applies them to the host element automatically.
  *
- * @see {@link https://github.com/arraypress/waveform-playlist} — core library
+ * @see {@link https://github.com/WaveformPlayer/waveform-playlist} — core library
  */
 import type {
 	WaveformPlaylist,
